@@ -24,7 +24,7 @@ The analysis is implemented in Google Colab using Python and widely used data sc
 ---
 
 ## Data Requirements
-
+Dataset Link: [Credit cards dataset](https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset)
 The analysis expects a CSV file named `credit_card_transactions.csv` with columns such as:
 
 - **Transaction Details:** `trans_date_trans_time`, `cc_num`, `amt`, `category`
